@@ -107,7 +107,7 @@ DSA-Mastery/
 └── README.md
 ⚡ Getting Started
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/dsa-mastery.git
+git clonehttps://github.com/Swayam-Khanna/DSA_Platform_Mastery.git
 cd dsa-mastery
 2️⃣ Install Dependencies
 
